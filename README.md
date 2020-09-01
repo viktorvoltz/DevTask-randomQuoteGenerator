@@ -1,2 +1,2 @@
 # DevTask-randomQuoteGenerator
-building a random quote generator 
+building a very basic random quote generator 
